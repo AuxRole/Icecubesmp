@@ -26,9 +26,8 @@ EVENT na naszym serwerze odbedzie sie odrazu na zakonczenie 1 edycji serwera.
 
 ### Tworca
 
-Tworca serwera SMP (rowniez tworca strony)
-Nick MC: AuxRole
-TikTok: auxrolee_
-youtube: AuxRole
+# Nick MC: AuxRole
+# TikTok: auxrolee_
+# youtube: AuxRole
 
-wersja strony -1.0
+### wersja strony -1.0
